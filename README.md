@@ -1,5 +1,11 @@
 # praktek-nextjs
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
+# Data Diri
 
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
+|  |  |
+|--|--|
+| NIM | *22104410071* |
+| Nama Lengkap | *Sektio Nugroho* |
+| Kelas | TI-5B |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
+| Mata Kuliah | Pemprograman API |
